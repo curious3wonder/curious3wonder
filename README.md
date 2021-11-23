@@ -9,7 +9,7 @@
   </div>
 
 * 🌱 Highly motivated self-learner
-* 🏠 Location Baced in Sydney Australia
+* 🏠 Location Based in Sydney Australia
 * 🎯 To make `user-friendly` websites and programs to expand the `'knowing'` benefit of people world-wide
 * 💻 Skills
   * Languages
