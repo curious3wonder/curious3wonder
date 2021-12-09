@@ -32,6 +32,9 @@
     ![microsoft Badge](https://img.shields.io/badge/-Microsoft-green?style=flat-square&logo=microsoft&logoColor=white)
   * Version Control
     * ![git Badge](https://img.shields.io/badge/-Git-green?style=flat-square&logo=git&logoColor=white)
+
+[![curious3wonder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=curious3wonder)](https://wakatime.com/@curious3wonder)
+
 ---    
 <!---
 curious3wonder/curious3wonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
