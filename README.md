@@ -33,7 +33,15 @@
   * Version Control
     * ![git Badge](https://img.shields.io/badge/-Git-green?style=flat-square&logo=git&logoColor=white)
 
-[![curious3wonder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=curious3wonder)](https://wakatime.com/@curious3wonder)
+<div align=center>
+ 
+ [![wakatime](https://wakatime.com/badge/user/c7c103fa-28c9-4753-8f1b-13d092878619.svg)](https://wakatime.com/@c7c103fa-28c9-4753-8f1b-13d092878619)
+ 
+ 
+ [![curious3wonder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=curious3wonder)](https://wakatime.com/@curious3wonder)
+
+</div>
+
 
 ---    
 <!---
